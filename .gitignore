@@ -5,6 +5,9 @@
 *.sublime-workspace
 *.sublime-project
 
+# Idea IDE project files
+.idea/
+
 # SASS
 .sass-cache
 
